@@ -1,22 +1,22 @@
 
-title: My Resume
+title: My Personal Website
 url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+baseurl: 'https://jchen9314.github.io/jason/' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Jingyun (Jason) Chen  ## put your name
+title: 'Data Science | Problem Solver|  Life Learner'  ## your title
+location: Vancouver, BC
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://www.facebook.com/profile.php?id=100004224133848  ## your facebook account url
+twitter: https://twitter.com/JasonCh50918329  ## your twitter account url
+linkedin: https://www.linkedin.com/in/jingyunchen/  ## your linkedin account url
+# dribbble: http://www.dribble.com  ## you dribbble account url
+# foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
