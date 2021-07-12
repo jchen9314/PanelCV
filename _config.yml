@@ -8,14 +8,14 @@ baseurl: 'https://jchen9314.github.io/PanelCV/' #change it according to your rep
 # Profile information
 yourname: Jason Chen  ## put your name
 title: 'Data Science | Machine Learning | Statistics | Big Data'  ## your title
-location: Vancouver, BC
+location: Toronto, ON
 
 
 ## Social Profiles
 github: https://github.com/jchen9314
 facebook: https://www.facebook.com/profile.php?id=100004224133848  ## your facebook account url
 twitter: https://twitter.com/JasonCh50918329  ## your twitter account url
-linkedin: https://www.linkedin.com/in/jingyunchen/  ## your linkedin account url
+linkedin: https://www.linkedin.com/in/jasonjychen ## your linkedin account url
 
 youtube: http://www.youtube.com  ## you dribbble account url
 # foursquare: http://www.foursquare.com  ## your foursquare account url
